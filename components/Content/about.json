@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Best Roofing Company in [location] | About Us",
+  "metaDescription": "Trusted roofing experts delivering honest workmanship, reliable repairs, and roof replacements—serving our community. Call for a free estimate: [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/roofinginstallationhumble_com/Roofing_Services_about_bannerImage_qFwim3Ie9z.jpg",
+  "h1Banner": "Best Roofing Company in [location] | About Us",
+  "p1Banner": "Trusted roofing experts delivering honest workmanship, reliable repairs, and roof replacements—serving our community. Call for a free estimate: [phone]",
+  "p2": "We started as a two-man roofing crew focused on honest repairs and quality installations and have grown into a locally owned company built on trust and hard work. Our mission is to protect homes and businesses through durable roof systems, clear communication, and fair pricing, backed by workmanship warranties and on-time service. Serving [location], we treat every job like it is our neighbor's roof—careful, professional, and made to last.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/roofinginstallationhumble_com/Roofing_Services_about_h2Image_UJpZt66vn.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To provide dependable roofing services—roof installations, storm repair, maintenance, and inspections—with honest estimates, skilled crews, and a commitment to protecting families and businesses in every neighborhood we serve."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be the go-to roofing partner known for craftsmanship, clear communication, and long-lasting results, making roof care simple and reliable for homeowners and property managers."
+    },
+    {
+      "title": "Our Team",
+      "description": "Our crew includes certified roofers, OSHA-trained installers, and seasoned project managers with decades of combined experience. We specialize in asphalt shingle and metal roofing, leak diagnosis, storm recovery, and efficient replacements—always explaining options in straightforward terms."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide roofing installation, repair, inspection, and emergency tarping services across [location], serving homeowners, property managers, and contractors with fast response times and local expertise.",
+    "linkText": "Check our Roofing service locations here.",
+    "link": "/locations"
+  }
+}
